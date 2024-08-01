@@ -1,0 +1,50 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+.success-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.retry-btn {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #4656a1;
+  height: 30px;
+  width: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.img {
+  width: 20%;
+}
+.image-item-container {
+  display: flex;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 0px 0px;
+  border: none;
+  margin-left: 60px;
+  width: 75vw;
+}
+.name {
+  padding-left: 10px;
+  color: #475569;
+  font-size: 25px;
+}
+.description {
+  padding-left: 10px;
+  color: #64748b;
+  font-size: 15px;
+}

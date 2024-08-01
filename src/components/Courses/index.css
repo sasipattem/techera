@@ -1,0 +1,11 @@
+.course-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  margin: 20px;
+}
+.link{
+    text-decoration: none;
+    color:  #1e293b;
+}
